@@ -47,7 +47,7 @@ Atualmente curso **Sistemas para Mídias Digitais**, buscando evoluir como **Des
 
 ### 🔹 [🛒 API REST E-commerce com Spring Boot](https://github.com/seu-repositorio-aqui)
 
-> Sistema completo com autenticação JWT, gestão de produtos, pedidos, relatórios, Redis cache e deploy com Docker.
+> Sistema completo (EM DESENVOLVIMENTO) com autenticação JWT, gestão de produtos, pedidos, relatórios, Redis cache e deploy com Docker.
 
 **Stack:** `Spring Boot`, `PostgreSQL`, `Spring Security`, `JPA`, `Redis`, `Docker`, `Flyway`  
 **Features:** Autenticação, filtros, cache, auditoria, documentação Swagger, testes com JUnit
