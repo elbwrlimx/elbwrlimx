@@ -14,34 +14,43 @@
 ## 🌎 About Me | Sobre mim
 
 🇺🇸 I'm passionate about design, technology, and creating interactive user experiences.  
-Currently studying **Digital Media Systems** and growing as a **Frontend Developer** with a focus on **HTML, CSS, JavaScript, Java**, and tools like **Figma**.
+Currently studying **Digital Media Systems** and growing as a **Frontend Developer**, working with **HTML, CSS, JavaScript, Java**, and tools like **Figma**.
 
 🇧🇷 Sou apaixonado por design, tecnologia e experiências interativas.  
 Atualmente curso **Sistemas para Mídias Digitais**, buscando evoluir como **Desenvolvedor Frontend**, com foco em **HTML, CSS, JavaScript, Java** e ferramentas como o **Figma**.
 
 ---
 
-## 📫 Contact Me | Contato
-
-📧 elberlima44@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/elber-lima-94b070120)
-
----
-
 ## 🛠️ Languages & Tools | Linguagens e Ferramentas
 
 <p align="left">
+  <!-- Linguagens -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+
+  <!-- Frameworks / Ferramentas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </p>
+
+---
+
+## 📦 Featured Projects | Projetos em Destaque
+
+### 🔹 [🛒 API REST E-commerce com Spring Boot](https://github.com/seu-repositorio-aqui)
+
+> Sistema completo com autenticação JWT, gestão de produtos, pedidos, relatórios, Redis cache e deploy com Docker.
+
+**Stack:** `Spring Boot`, `PostgreSQL`, `Spring Security`, `JPA`, `Redis`, `Docker`, `Flyway`  
+**Features:** Autenticação, filtros, cache, auditoria, documentação Swagger, testes com JUnit
 
 ---
 
@@ -58,3 +67,16 @@ Atualmente curso **Sistemas para Mídias Digitais**, buscando evoluir como **Des
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elbwrlimx&" alt="GitHub Streak" />
 </p>
+
+---
+
+## 📫 Contact Me | Contato
+
+📧 elberlima44@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/elber-lima-94b070120)
+
+---
+
+## 🏳️‍🌈 Fun Fact  
+✨ I code with style and caffeine. E café com glitter conta como dependência no `pom.xml`.
+
