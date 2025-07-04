@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>🇺🇸 Frontend developer and digital media student from Brazil</strong><br>
-  <strong>🇧🇷 Desenvolvedor frontend e estudante de mídias digitais do Brasil</strong>
+  <strong>🇧🇷 Desenvolvedor Frontend e estudante de mídias digitais do Brasil</strong>
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ## 🌎 About Me | Sobre mim
 
-🇺🇸 I'm passionate about design, technology, and creating interactive user experiences.  
-Currently studying **Digital Media Systems** and growing as a **Frontend Developer**, working with **HTML, CSS, JavaScript, Java**, and tools like **Figma**.
+🇺🇸 I'm passionate about design, technology, and building interactive digital experiences.  
+Currently studying **Digital Media Systems** and evolving as a **Frontend Developer**, working with **HTML, CSS, JavaScript, Java**, and tools like **Figma**.
 
-🇧🇷 Sou apaixonado por design, tecnologia e experiências interativas.  
-Atualmente curso **Sistemas para Mídias Digitais**, buscando evoluir como **Desenvolvedor Frontend**, com foco em **HTML, CSS, JavaScript, Java** e ferramentas como o **Figma**.
+🇧🇷 Sou apaixonado por design, tecnologia e experiências digitais interativas.  
+Atualmente curso **Sistemas para Mídias Digitais**, me desenvolvendo como **Desenvolvedor Frontend**, com foco em **HTML, CSS, JavaScript, Java** e ferramentas como **Figma**.
 
 ---
 
@@ -45,12 +45,12 @@ Atualmente curso **Sistemas para Mídias Digitais**, buscando evoluir como **Des
 
 ## 📦 Featured Projects | Projetos em Destaque
 
-### 🔹 [🛒 API REST E-commerce com Spring Boot](https://github.com/seu-repositorio-aqui)
+### 🔹 [🛒 API REST E-commerce com Spring Boot](https://github.com/elbwrlimx/api-ecommerce)
 
-> Sistema completo (EM DESENVOLVIMENTO) com autenticação JWT, gestão de produtos, pedidos, relatórios, Redis cache e deploy com Docker.
+> Sistema completo (em desenvolvimento) com autenticação JWT, gestão de produtos, pedidos, relatórios, cache com Redis e deploy via Docker.
 
 **Stack:** `Spring Boot`, `PostgreSQL`, `Spring Security`, `JPA`, `Redis`, `Docker`, `Flyway`  
-**Features:** Autenticação, filtros, cache, auditoria, documentação Swagger, testes com JUnit
+**Funcionalidades:** Autenticação, filtros de busca, cache, auditoria, documentação Swagger, testes com JUnit
 
 ---
 
@@ -76,4 +76,3 @@ Atualmente curso **Sistemas para Mídias Digitais**, buscando evoluir como **Des
 🔗 [LinkedIn](https://linkedin.com/in/elber-lima-94b070120)
 
 ---
-
