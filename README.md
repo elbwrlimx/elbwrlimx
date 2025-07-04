@@ -77,6 +77,3 @@ Atualmente curso **Sistemas para Mídias Digitais**, buscando evoluir como **Des
 
 ---
 
-## 🏳️‍🌈 Fun Fact  
-✨ I code with style and caffeine. E café com glitter conta como dependência no `pom.xml`.
-
